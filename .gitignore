@@ -1,0 +1,15 @@
+.cache
+*.mp4
+*.mp4
+*.ts
+*.wav
+*.wmv
+*.model
+*.pt
+*.cfg
+*.weights
+*.pth
+.idea
+__pycache__
+.ipynb_checkpoints
+paravision/dbs

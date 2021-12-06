@@ -1,0 +1,6 @@
+git
+pywin32
+pytorch
+torchaudio
+torchvision
+cpuonly
